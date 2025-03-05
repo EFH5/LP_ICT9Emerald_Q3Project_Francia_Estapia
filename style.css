@@ -1,0 +1,78 @@
+.navbar {
+	height: 60px;
+}
+.container-fluid {
+	border: 2px solid grey;
+	box-shadow: 10px 10px rgba(0, 0, 0, 0.4);
+	max-width: 1100px;
+	margin: auto;
+	border-radius: 10px;
+	height: 500px;
+}
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+.navbar-brand img {
+	height: 80px;
+	width: auto;
+	max-height: 100px;
+}
+.topcard {
+	background-color: black;
+	width: 100%;
+	color: #007FEE;
+	padding-left: 15px;
+}
+.box {
+	height: 150px;
+	width: 150px;
+	background-color: #007FEE;
+	border-radius: 10px;
+	margin: auto;
+	text-align: center;
+}
+body {
+	padding-top: 180px;
+}
+span {
+	color: red;
+}
+#bodycolor {
+	background-color: #bdc3c9;
+}
+.buttoncolor button {
+	background-color: #007FEE;
+}
+#tabletext {
+	color: #007FEE;
+	text-align: center;
+}
+#boxcolor {
+	background-color: white;
+}
+footer {
+	font-size: 13px;
+	border-color: 2px solid white; 
+	text-align: center; 
+	width: 100%;
+	position: absolute;
+    bottom: 0;
+    height: 60px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: grey;
+}
+#from {
+	width: 100%;
+	background-color: #6082B6;
+	margin-bottom: -40px;
+}
+#to {
+	width: 100%;
+	background-color: #6082B6;
+	margin-bottom: -30px;
+}
+#fare {
+	color: white;
+}
